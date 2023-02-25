@@ -5,7 +5,7 @@ import Footer from './Footer';
 
 function App() {
 
-  const nametest = 'Peter';
+  const nametest = 'Peter Pan';
  
   return (
     <div className="App">
