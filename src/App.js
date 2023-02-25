@@ -6,7 +6,7 @@ import Footer from './Footer';
 function App() {
 
   const nametest = 'Peter';
- 
+  const hellWorld = [6, 7, 8, 10];
   return (
     <div className="App">
 
